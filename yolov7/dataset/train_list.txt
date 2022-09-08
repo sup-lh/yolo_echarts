@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\yolov7\dataset\images\train\1.jpg
+C:\Users\Administrator\Desktop\yolov7\dataset\images\train\2.jpg
