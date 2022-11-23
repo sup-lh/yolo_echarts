@@ -1,6 +1,0 @@
-train: dataset/train_list.txt
-val: dataset/val_list.txt
-
-nc: 1
-
-names: ['box']
